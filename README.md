@@ -17,6 +17,8 @@ From January 2011 - August 2019 (8 years 8 months)
     <td>
       <img width="250" height="438" alt="modelrecipes-page_mobile" src="https://github.com/user-attachments/assets/0d180ce5-02c4-41fc-86b4-6083e141ce50" />
     </td>
+  </tr>
+  <tr>
     <td>
       <img width="550" height="309" alt="modelrecipes-page_site" src="https://github.com/user-attachments/assets/92cdafe9-041b-46fa-be54-793d3737856e" />
     </td>
