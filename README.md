@@ -9,7 +9,9 @@ From January 2011 - August 2019 (8 years 8 months)
 
 ### Projects
 - Currently, as part of my transition to Data Science, I am developing a machine learning model for predicting sensory tests of culinary recipes for sweets that have been adapted to reduce amounts of saturated fat, increased sugars, and sodium to values ​​below the limits established by ANVISA (Brazilian Health Regulatory Agency) for front-of-package nutritional labelling of packaged foods. [See my code to NER and database for culinary recipes here.](https://github.com/yara403/recipes_model) [Or try my app at this link](https://recipesmodel.streamlit.app)
-***
+
+---
+
 - Modelo de machine learning para predição de testes sensoriais de receitas culinárias adaptadas aos limites de gordura saturada, açúcares adicionados e sódio estabelecidos pela ANVISA.
 
 <table>
